@@ -1,0 +1,941 @@
+{
+  "site": {
+    "name": "VALO CHEAT STORE",
+    "domain": "valocheatstore.com",
+    "title": "Valorant Cheats | Aimbot & ESP | VALO CHEAT STORE",
+    "description": "Ajusta la puntería, localiza jugadores tras la cobertura y consulta habilidades compatibles y el progreso de la spike desde un solo menú."
+  },
+  "nav": [
+    {
+      "id": "products",
+      "href": "/products/",
+      "label": "Productos",
+      "shortLabel": "Productos",
+      "sheetLabel": "Ver productos"
+    },
+    {
+      "id": "blog",
+      "href": "/blog/",
+      "label": "Blog",
+      "sheetLabel": "Leer el blog"
+    },
+    {
+      "id": "forum",
+      "href": "/forum/",
+      "label": "Foro",
+      "sheetLabel": "Abrir el foro"
+    },
+    {
+      "id": "faq",
+      "href": "/faq/",
+      "label": "FAQ",
+      "sheetLabel": "Preguntas antes de comprar"
+    },
+    {
+      "id": "support",
+      "href": "/support/",
+      "label": "Soporte",
+      "sheetLabel": "Obtener ayuda"
+    }
+  ],
+  "hero": {
+    "status": "Confirma la versión del juego y los requisitos de Cloud DMA antes de comprar.",
+    "eyebrow": "Desata tu verdadera ventaja",
+    "titleLead": "Valorant ",
+    "titleAccent": "Cheats para PC con Windows",
+    "subtitle": "Ajusta la puntería, localiza jugadores tras la cobertura y consulta habilidades compatibles y el progreso de la spike desde un solo menú.",
+    "ctaPrimary": "Ver productos",
+    "metrics": [
+      {
+        "label": "FOV",
+        "strong": "Regulable"
+      },
+      {
+        "label": "Spike",
+        "strong": "Tiempo"
+      },
+      {
+        "label": "ESP de jugadores",
+        "strong": "Ajustable"
+      },
+      {
+        "label": "Ayuda",
+        "strong": "Soporte"
+      }
+    ],
+    "statusPills": [
+      "Aimbot",
+      "Suavidad",
+      "ESP de jugadores",
+      "Wallhack",
+      "Puesto y equipo",
+      "Barras de escudo",
+      "ESP de habilidades",
+      "Modo Combate",
+      "Configuraciones",
+      "Soporte",
+      "Tiempo"
+    ]
+  },
+  "features": {
+    "eyebrow": "Características",
+    "title": "Puntería, jugadores y utilidad",
+    "subtitle": "Conoce los controles de puntería, las visuales de jugadores, la utilidad de los agentes y la información de la spike.",
+    "items": [
+      {
+        "title": "ESP de jugadores",
+        "subtitle": "Datos junto a cada jugador",
+        "desc": "Los recuadros, esqueletos y círculos marcan la posición. Añade barras de vida y escudo, agente o arma.",
+        "bullets": [
+          "Recuadros",
+          "Esqueletos",
+          "Vida y escudo",
+          "Agente y equipo"
+        ],
+        "tags": [
+          "ESP de jugadores"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-12 lg:col-start-1 lg:row-start-1"
+      },
+      {
+        "title": "Wallhack",
+        "subtitle": "Posiciones tras la cobertura",
+        "desc": "Las líneas de posición y la dirección de la mirada amplían lo que muestra el ESP de jugadores.",
+        "bullets": [
+          "Líneas",
+          "Dirección de la mirada",
+          "Distancia máxima"
+        ],
+        "tags": [
+          "Wallhack"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:col-start-1 lg:row-start-2"
+      },
+      {
+        "title": "Aimbot",
+        "subtitle": "Respuesta regulable",
+        "desc": "El FOV delimita la zona de puntería. La suavidad y la velocidad regulan el movimiento de la asistencia.",
+        "bullets": [
+          "FOV",
+          "Suavidad",
+          "Velocidad"
+        ],
+        "tags": [
+          "Aimbot"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-3"
+      },
+      {
+        "title": "Selección de objetivos",
+        "subtitle": "Condiciones de puntería",
+        "desc": "Define la zona del cuerpo y ajusta la fijación y la comprobación de visibilidad.",
+        "bullets": [
+          "Zona del cuerpo",
+          "Fijación",
+          "Visibilidad"
+        ],
+        "tags": [
+          "Selección de objetivos"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-3"
+      },
+      {
+        "title": "ESP de habilidades",
+        "subtitle": "Utilidad de los agentes",
+        "desc": "Muestra indicadores para habilidades compatibles, con iconos, distancia y opciones por agente.",
+        "bullets": [
+          "Habilidades",
+          "Iconos",
+          "Distancia"
+        ],
+        "tags": [
+          "ESP de habilidades"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-8 lg:row-span-2 lg:col-start-1 lg:row-start-4"
+      },
+      {
+        "title": "Seguimiento de la spike",
+        "subtitle": "Información del objetivo",
+        "desc": "Consulta el tiempo y el progreso de desactivación en los estados compatibles de la spike.",
+        "bullets": [
+          "Tiempo",
+          "Progreso de desactivación"
+        ],
+        "tags": [
+          "Seguimiento de la spike"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:row-span-2 lg:col-start-9 lg:row-start-4"
+      },
+      {
+        "title": "Modo Combate",
+        "subtitle": "Reduce los marcadores",
+        "desc": "La tecla de Modo Combate oculta los indicadores de habilidades y trampas.",
+        "bullets": [
+          "Atajo",
+          "Oculta habilidades",
+          "Oculta trampas"
+        ],
+        "tags": [
+          "Modo Combate"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-1 lg:row-start-6"
+      },
+      {
+        "title": "ESP de trampas",
+        "subtitle": "Utilidad colocada",
+        "desc": "Identifica trampas compatibles y limita el alcance de los indicadores del entorno.",
+        "bullets": [
+          "Trampas",
+          "Alcance",
+          "Opciones por agente"
+        ],
+        "tags": [
+          "ESP de trampas"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-6 lg:col-start-7 lg:row-start-6"
+      },
+      {
+        "title": "Configuraciones guardadas",
+        "subtitle": "Recupera tus ajustes",
+        "desc": "Crea, guarda, carga y descarga configuraciones desde el menú. También puedes ajustar el tamaño del texto.",
+        "bullets": [
+          "Crear",
+          "Guardar",
+          "Cargar",
+          "Tamaño del texto"
+        ],
+        "tags": [
+          "Configuraciones guardadas"
+        ],
+        "bento": "sm:col-span-2 lg:col-span-4 lg:col-start-9 lg:row-start-2"
+      }
+    ]
+  },
+  "whyUs": {
+    "eyebrow": "Por qué nosotros",
+    "title": "Qué incluye Valorant Cheats",
+    "subtitle": "Consulta los controles de puntería, las visuales y las opciones de configuración.",
+    "usLabel": "{siteName}",
+    "otherLabel": "Otros proveedores",
+    "rows": [
+      {
+        "title": "Aimbot",
+        "desc": "El FOV delimita la zona de puntería. La suavidad y la velocidad regulan el movimiento de la asistencia."
+      },
+      {
+        "title": "ESP de jugadores",
+        "desc": "Los recuadros, esqueletos y círculos marcan la posición. Añade barras de vida y escudo, agente o arma."
+      },
+      {
+        "title": "ESP de habilidades",
+        "desc": "Muestra indicadores para habilidades compatibles, con iconos, distancia y opciones por agente."
+      },
+      {
+        "title": "Seguimiento de la spike",
+        "desc": "Consulta el tiempo y el progreso de desactivación en los estados compatibles de la spike."
+      },
+      {
+        "title": "Modo Combate",
+        "desc": "La tecla de Modo Combate oculta los indicadores de habilidades y trampas."
+      },
+      {
+        "title": "Configuraciones guardadas",
+        "desc": "Crea, guarda, carga y descarga configuraciones desde el menú. También puedes ajustar el tamaño del texto."
+      }
+    ],
+    "metrics": [
+      {
+        "title": "Grupos de visuales",
+        "value": "2",
+        "desc": "Controles separados para jugadores y entorno."
+      },
+      {
+        "title": "Categorías del menú",
+        "value": "4",
+        "desc": "Puntería, jugadores, entorno y opciones varias."
+      },
+      {
+        "title": "Atajo de Modo Combate",
+        "value": "1",
+        "desc": "Oculta indicadores de habilidades y trampas."
+      }
+    ],
+    "variesLabel": "Varía"
+  },
+  "setup": {
+    "eyebrow": "Guía de configuración",
+    "titleLead": "Prepara tu equipo con",
+    "titleHighlight": "tres comprobaciones",
+    "intro": "Confirma la compatibilidad y revisa los requisitos de Cloud DMA antes de comprar.",
+    "ctaPrimary": "Ver producto",
+    "ctaSecondary": "Leer la FAQ de configuración",
+    "ctaPrimaryHref": "/cheats/",
+    "ctaSecondaryHref": "/faq/",
+    "steps": [
+      {
+        "step": "Paso 1",
+        "title": "Confirma tu versión de Windows",
+        "desc": "Comparte con soporte tu versión de Windows y la compilación del juego."
+      },
+      {
+        "step": "Paso 2",
+        "title": "Revisa Cloud DMA",
+        "desc": "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles."
+      },
+      {
+        "step": "Paso 3",
+        "title": "Sigue las instrucciones del pedido",
+        "desc": "Consulta las instrucciones de entrega y configuración. Guarda tus ajustes desde el menú."
+      }
+    ]
+  },
+  "compatibility": {
+    "eyebrow": "Soporte de plataforma",
+    "title": "Comprueba tu PC con Windows",
+    "subtitle": "Confirma la versión del juego y los requisitos de Cloud DMA antes de comprar.",
+    "items": [
+      "PC con Windows",
+      "VALORANT",
+      "Riot Vanguard",
+      "Cloud DMA",
+      "Versión del juego",
+      "Conexión estable",
+      "Restricciones de cuenta"
+    ]
+  },
+  "cheats": {
+    "eyebrow": "Producto principal",
+    "title": "Valorant Cheats",
+    "subtitle": "Aimbot regulable, wallhack, ESP de jugadores y del entorno, e información de la spike.",
+    "viewAll": "Ver detalles del producto",
+    "explore": "Explorar",
+    "items": [
+      {
+        "badge": "Producto principal",
+        "tier": "Valorant",
+        "name": "Valorant Cheats",
+        "title": "Menú de Valorant Cheats para Windows",
+        "desc": "Aimbot regulable, wallhack, ESP de jugadores y del entorno, e información de la spike.",
+        "homeDesc": "Controla por separado la puntería y los marcadores. Consulta la spike y guarda tus ajustes.",
+        "heroDesc": "Ajusta el FOV y la selección de objetivos. Elige datos de jugadores, habilidades y spike. Cloud DMA se requiere para todas las funciones en versiones compatibles.",
+        "features": [
+          "Aimbot",
+          "ESP de jugadores",
+          "Wallhack",
+          "ESP de habilidades",
+          "Seguimiento de la spike",
+          "Configuraciones"
+        ],
+        "more": 20,
+        "href": "/cheats/",
+        "variant": "essential"
+      }
+    ]
+  },
+  "products": {
+    "eyebrow": "Tienda",
+    "title": "Nuestros productos",
+    "subtitle": "Compara el menú de cheats y las utilidades en esta cuadrícula. Abre una página de producto para la lista de funciones y el pago.",
+    "viewAll": "Ver todos los cheats",
+    "backToCheats": "Volver al producto",
+    "showcaseHeading": "Resumen del producto",
+    "experience": {
+      "eyebrow": "Experiencia",
+      "title": "Capas del menú · Tras el pago",
+      "subtitle": "Consulta las opciones del menú y las instrucciones de entrega.",
+      "previewLabel": "Capas en el juego",
+      "accessDividerTop": "Vista previa",
+      "accessDividerBottom": "Acceso"
+    },
+    "hwidPage": {
+      "showcaseHeading": "Vista previa del producto",
+      "overviewSubtitle": "Qué IDs reescribe el panel, qué familias de anti-cheat están listadas y en qué se diferencia una marca de máquina de una sanción de cuenta.",
+      "highlights": {
+        "eyebrow": "De un vistazo",
+        "title": "Qué cubre una actualización de hardware",
+        "desc": "Tras una marca de hardware, el panel puede reescribir IDs de disco. Puede reescribir IDs MAC y GPU, y IDs relacionados. El objetivo es iniciar sesión en este PC. Más abajo en la página hay tablas con las filas."
+      },
+      "featuresSection": {
+        "eyebrow": "Filas listadas",
+        "title": "IDs y familias publicadas",
+        "desc": "Cada fila nombra un campo de huella que edita el panel, o una familia de anti-cheat escrita en esta página."
+      },
+      "experience": {
+        "eyebrow": "Tras el pago",
+        "title": "Notas del panel, luego orden del portal",
+        "subtitle": "Los avisos del panel están a la izquierda. La entrega de la licencia y el orden de configuración están a la derecha.",
+        "previewLabel": "Ilustración del panel",
+        "accessDividerTop": "Panel",
+        "accessDividerBottom": "Orden"
+      },
+      "highlightsMore": "{count} filas más están en la tabla de funciones más abajo en la página."
+    },
+    "utilityPages": {
+      "skin-changer": {
+        "showcaseHeading": "Fotogramas del cliente",
+        "overviewSubtitle": "Dónde se dibuja el acabado, qué no entra en tu inventario y cómo comprobar un título antes del pago.",
+        "highlights": {
+          "eyebrow": "Biblioteca",
+          "title": "La biblioteca de acabados en este PC",
+          "desc": "Skins premium de armas están en la biblioteca. También atuendos y estilos de cuchillo, dentro de juegos compatibles. Cada ítem no es una compra aparte."
+        },
+        "featuresSection": {
+          "eyebrow": "Grupos",
+          "title": "Grupos cosméticos",
+          "desc": "Estos tipos de acabado están disponibles cuando la licencia cosmética está activa."
+        },
+        "experience": {
+          "eyebrow": "Cuando llega el acceso",
+          "title": "Capturas, luego acceso al portal",
+          "subtitle": "Las notas de captura quedan a la izquierda. A la derecha: acceso al portal y cómo se configura el menú.",
+          "previewLabel": "Capturas",
+          "accessDividerTop": "Fotogramas",
+          "accessDividerBottom": "Acceso"
+        },
+        "highlightsMore": "{count} filas cosméticas continúan más abajo en esta página."
+      },
+      "cloud-dma": {
+        "showcaseHeading": "Configuración",
+        "overviewSubtitle": "Comprueba Windows, Hyper-V y las compras adicionales antes de hacer el pedido.",
+        "highlights": {
+          "eyebrow": "En resumen",
+          "title": "Cloud DMA en un PC con Windows",
+          "desc": "El instalador prepara el entorno virtual en tu PC y activa el servicio mediante una conexión cifrada."
+        },
+        "featuresSection": {
+          "eyebrow": "Incluido",
+          "title": "Cloud DMA",
+          "desc": "Cloud DMA puede requerir GREENWARD, Static Server y AWS como compras separadas. Consulta los requisitos y el precio vigente al pagar."
+        },
+        "experience": {
+          "eyebrow": "Configuración",
+          "title": "De la compra a la activación",
+          "subtitle": "Comprueba Windows, Hyper-V y las compras adicionales antes de hacer el pedido.",
+          "previewLabel": "Configuración",
+          "accessDividerTop": "Configuración",
+          "accessDividerBottom": "Pedido"
+        },
+        "highlightsMore": "{count} filas de capacidad más están más abajo en esta página."
+      }
+    },
+    "swipeHint": "Desliza para ver más capturas",
+    "checkoutEyebrow": "Pago",
+    "checkoutSelect": "Seleccionar suscripción",
+    "checkoutSingle": "Opción de compra",
+    "checkoutTotal": "Total",
+    "bestValue": "Mejor valor",
+    "planWeekly": "1 semana",
+    "planWeeklyNote": "7 días",
+    "planMonthly": "Mensual",
+    "planLifetime": "De por vida",
+    "planOneTime": "Acceso único",
+    "planPerMonth": "31 días de acceso",
+    "planOneTimeNote": "Acceso ilimitado",
+    "get": "Obtener",
+    "explore": "Explorar",
+    "buyNow": "Ver opciones de compra",
+    "viewDetails": "Ver detalles",
+    "items": [
+      {
+        "badge": "Disponible",
+        "category": "Utilidad de hardware",
+        "title": "HWID Spoofer",
+        "subtitle": "Consulta los identificadores de disco, red y GPU.",
+        "desc": "Cubre números de serie, direcciones MAC e identificadores de GPU e incluye un limpiador de rastros.",
+        "features": [
+          "Reescritura de serial de disco",
+          "Reescritura de MAC",
+          "Reescritura de ID de GPU",
+          "Limpiador en la licencia"
+        ],
+        "more": 0,
+        "href": "/hwid-spoofer/"
+      },
+      {
+        "badge": "Disponible",
+        "category": "Infraestructura para un PC",
+        "title": "Cloud DMA",
+        "subtitle": "Entorno Hyper-V para un PC con Windows, con instalación guiada y activación cifrada.",
+        "desc": "GREENWARD, Static Server y AWS se adquieren por separado. Revisa los requisitos de Windows y Hyper-V.",
+        "features": [
+          "Configuración en un solo PC",
+          "Instalación guiada de Hyper-V",
+          "Activación cifrada",
+          "Acceso de por vida"
+        ],
+        "more": 0,
+        "href": "/cloud-dma/"
+      },
+      {
+        "badge": "Disponible",
+        "category": "Cosméticos en pantalla",
+        "title": "Skin Changer cliente para títulos compatibles",
+        "subtitle": "Previsualiza acabados, atuendos y cuchillos en juegos compatibles. Confirma la cobertura antes de comprar.",
+        "desc": "Previsualiza acabados, atuendos y cuchillos en juegos compatibles. Confirma la cobertura antes de comprar.",
+        "features": [
+          "Aspectos de acabado de arma",
+          "Aspectos de atuendo",
+          "Aspectos de estilo de cuchillo",
+          "Títulos principales cubiertos"
+        ],
+        "more": 0,
+        "href": "/skin-changer/"
+      }
+    ]
+  },
+  "blog": {
+    "eyebrow": "Blog",
+    "title": "Guías de Valorant",
+    "subtitle": "Controles de puntería, visuales, requisitos para PC y comprobaciones antes de comprar.",
+    "latestTitle": "Guías de Valorant",
+    "latestSubtitle": "Controles de puntería, visuales, requisitos para PC y comprobaciones antes de comprar.",
+    "filterAll": "Todos los artículos",
+    "emptyFilter": "Ningún artículo coincide con este filtro.",
+    "emptyArchive": "Aún no hay artículos. Las nuevas guías aparecerán aquí.",
+    "viewAll": "Ver todos los artículos",
+    "read": "Leer el artículo completo",
+    "articleActionsAria": "Seguir leyendo",
+    "buyCta": "Comprar VALORANT Cheats",
+    "buyHwidCta": "Comprar la licencia HWID",
+    "moreArticles": "Más artículos",
+    "sidebarAria": "Barra lateral del artículo",
+    "tocTitle": "En este artículo",
+    "relatedTitle": "Guías relacionadas",
+    "filterToolbarAria": "Filtrar artículos por tema",
+    "items": []
+  },
+  "workflow": {
+    "eyebrow": "Cómo funciona",
+    "badge": "4 pasos sencillos",
+    "titleBefore": "Prepara tu equipo con",
+    "titleHighlight": "tres comprobaciones",
+    "subtitle": "Confirma la compatibilidad y revisa los requisitos de Cloud DMA antes de comprar.",
+    "ctaLabel": "Ver producto",
+    "ctaHref": "/cheats/",
+    "ctaSecondary": "FAQ de configuración",
+    "ctaSecondaryHref": "/faq/",
+    "items": [
+      {
+        "num": "01",
+        "phase": "Antes de comprar",
+        "title": "Confirma tu versión de Windows",
+        "desc": "Comparte con soporte tu versión de Windows y la compilación del juego."
+      },
+      {
+        "num": "02",
+        "phase": "Pago",
+        "title": "Nuestros productos",
+        "desc": "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles."
+      },
+      {
+        "num": "03",
+        "phase": "Cargador",
+        "title": "Sigue las instrucciones del pedido",
+        "desc": "Consulta las instrucciones de entrega y configuración. Guarda tus ajustes desde el menú."
+      },
+      {
+        "num": "04",
+        "phase": "En el juego",
+        "title": "Configuraciones",
+        "desc": "Crea, guarda, carga y descarga configuraciones desde el menú. También puedes ajustar el tamaño del texto."
+      }
+    ]
+  },
+  "support": {
+    "eyebrow": "Soporte",
+    "title": "Soporte de VALORANT Cheats",
+    "subtitle": "Recibe ayuda con un pedido, encuentra guías de instalación o consulta las preguntas frecuentes.",
+    "channels": [
+      {
+        "id": "tickets",
+        "title": "Tickets de soporte",
+        "desc": "Inicia sesión para pedir ayuda con un pedido, tu cuenta o la instalación y consultar las respuestas en un solo lugar.",
+        "linkLabel": "Abrir un ticket"
+      },
+      {
+        "id": "documentation",
+        "title": "Guías de instalación",
+        "desc": "Consulta las instrucciones de instalación, encuentra tu clave de licencia y resuelve errores comunes.",
+        "linkLabel": "Ver las guías"
+      },
+      {
+        "id": "faq",
+        "title": "Preguntas frecuentes",
+        "desc": "Encuentra respuestas sobre pagos, entregas, acceso a la cuenta y el estado de tu pedido.",
+        "linkLabel": "Leer la FAQ"
+      }
+    ],
+    "ticketTitle": "Qué incluir en un ticket",
+    "ticketItems": [
+      {
+        "title": "Número de pedido",
+        "desc": "Incluye tu número de pedido si la consulta es sobre el pago o la entrega."
+      },
+      {
+        "title": "Datos de la instalación",
+        "desc": "Para problemas técnicos, indica el nombre del producto y la versión de Windows."
+      },
+      {
+        "title": "Qué ocurrió",
+        "desc": "Describe el paso que falló e incluye el mensaje de error exacto o una captura de pantalla."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Preguntas antes de comprar",
+    "subtitle": "Compatibilidad con Windows, Cloud DMA, riesgos para la cuenta y ayuda con pedidos.",
+    "items": [
+      {
+        "num": "01",
+        "q": "¿Cómo confirmo la compatibilidad?",
+        "a": "Consulta con soporte la versión de Windows, la compilación de VALORANT y la configuración de Cloud DMA."
+      },
+      {
+        "num": "02",
+        "q": "¿Qué sucede después de comprar?",
+        "a": "Sigue las instrucciones de entrega y configuración del pedido."
+      },
+      {
+        "num": "03",
+        "q": "¿Se puede sancionar mi cuenta?",
+        "a": "Riot puede sancionar el uso de modificaciones de terceros. Las actualizaciones también pueden afectar a la compatibilidad."
+      },
+      {
+        "num": "04",
+        "q": "¿Qué plataformas admite?",
+        "a": "Está documentado para PC con Windows. Confirma la versión exacta antes de comprar."
+      },
+      {
+        "num": "05",
+        "q": "¿Puedo trasladar la licencia a otro PC?",
+        "a": "Consulta con soporte la política de traslado aplicable al pedido."
+      },
+      {
+        "num": "06",
+        "q": "¿Dónde puedo comparar los productos?",
+        "a": "El catálogo reúne Valorant Cheats y tres utilidades separadas, con requisitos y enlaces de compra."
+      }
+    ]
+  },
+  "footer": {
+    "homeLink": "{siteName}",
+    "tagline": "Aimbot regulable, wallhack, ESP de jugadores y del entorno, e información de la spike.",
+    "trademark": "{game} es una marca comercial de su respectivo titular. {siteDomain} no está afiliado ni respaldado por ese titular.",
+    "explore": "Explorar",
+    "exploreLinks": [
+      {
+        "id": "products",
+        "href": "/",
+        "label": "Resumen de funciones",
+        "ariaLabel": "Funciones",
+        "scrollTarget": "features"
+      },
+      {
+        "id": "products",
+        "href": "/products/",
+        "label": "Todos los productos",
+        "ariaLabel": "Todos los productos"
+      },
+      {
+        "id": "products",
+        "href": "/cheats/",
+        "label": "Funciones y módulos del cheat",
+        "ariaLabel": "{cheatProduct}"
+      },
+      {
+        "id": "hwidSpoofer",
+        "href": "/hwid-spoofer/",
+        "label": "Panel HWID",
+        "ariaLabel": "HWID Spoofer"
+      },
+      {
+        "id": "products",
+        "href": "/cloud-dma/",
+        "label": "Cloud DMA",
+        "ariaLabel": "Cloud DMA"
+      },
+      {
+        "id": "products",
+        "href": "/skin-changer/",
+        "label": "Cliente de skins",
+        "ariaLabel": "Skin Changer"
+      },
+      {
+        "id": "blog",
+        "href": "/blog/",
+        "label": "Guías y artículos",
+        "ariaLabel": "Blog"
+      },
+      {
+        "id": "forum",
+        "href": "/forum/",
+        "label": "Foro de la comunidad",
+        "ariaLabel": "Foro"
+      }
+    ],
+    "supportLinks": [
+      {
+        "href": "/faq/",
+        "label": "FAQ antes de comprar",
+        "ariaLabel": "FAQ"
+      },
+      {
+        "href": "/support/",
+        "label": "Contactar soporte",
+        "ariaLabel": "Soporte"
+      }
+    ],
+    "support": "Soporte",
+    "legal": "Legal",
+    "privacy": "Política de privacidad",
+    "terms": "Términos y condiciones",
+    "about": "Acerca de"
+  },
+  "legalPages": {
+    "about": {
+      "title": "Acerca de {siteName}",
+      "description": "{siteName} publica {cheatProduct}, las páginas de utilidades y notas de soporte en {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Quiénes somos",
+          "paragraphs": [
+            "{siteName} es un catálogo para PC de herramientas de VALORANT. El sitio lista el menú de cheats, HWID Spoofer, Cloud DMA y Skin Changer.",
+            "Confirma los requisitos y la compatibilidad con soporte antes de comprar."
+          ]
+        },
+        {
+          "heading": "Qué publicamos",
+          "paragraphs": [
+            "El menú reúne puntería, visuales de jugadores y del entorno, información de la spike y configuraciones guardadas.",
+            "Consulta los precios vigentes al pagar. Las guías explican los controles de puntería, las visuales y la configuración de Windows.",
+            "Confirma los requisitos y la compatibilidad con soporte antes de comprar."
+          ]
+        },
+        {
+          "heading": "Cómo es la configuración",
+          "paragraphs": [
+            "Tras pagar, se abre el portal del operador. Descarga allí el cargador de Windows actual.",
+            "Confirma los requisitos y la compatibilidad con soporte antes de comprar."
+          ]
+        },
+        {
+          "heading": "Requisitos",
+          "paragraphs": [
+            "El cheat está listado para Windows 10 o Windows 11 de 64 bits. macOS y Linux no están en esa lista.",
+            "Las utilidades también piden HVCI, Core Isolation, TPM y Secure Boot donde sus páginas lo indican."
+          ]
+        },
+        {
+          "heading": "Soporte",
+          "paragraphs": [
+            "Abre un ticket desde la página de soporte si tienes problemas con un pedido o la instalación. Incluye el número de pedido o el mensaje de error exacto, según corresponda.",
+            "Confirma los requisitos y la compatibilidad con soporte antes de comprar."
+          ]
+        }
+      ]
+    },
+    "privacy": {
+      "title": "Política de privacidad",
+      "description": "Analítica, cookies y el correo que envías con un ticket de soporte en {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Información que recopilamos",
+          "paragraphs": [
+            "Si Google Analytics está activo, puede registrar visitas a páginas, tipo de dispositivo, navegador y una región aproximada. El pago y la entrega de la licencia corren en páginas de pago externas. {siteDomain} no guarda números de tarjeta de pago."
+          ]
+        },
+        {
+          "heading": "Cómo usamos los datos",
+          "paragraphs": [
+            "Esos datos muestran qué guías y páginas de producto se usan, para corregir enlaces rotos y páginas pobres. Un ticket de soporte puede conservar el correo y el mensaje hasta cerrar ese asunto."
+          ]
+        },
+        {
+          "heading": "Cookies",
+          "paragraphs": [
+            "Las cookies en este sitio se limitan a analítica. Bloquéalas en el navegador y las páginas siguen cargando."
+          ]
+        },
+        {
+          "heading": "Soporte",
+          "paragraphs": [
+            "Las preguntas de privacidad van por la página de Soporte. Las reglas de compra y reembolso están en Términos y condiciones."
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "title": "Términos y condiciones",
+      "description": "Qué compras, cómo funcionan las licencias, cuándo puede valorarse un reembolso y la sanción de cuenta que aceptas en {siteDomain}.",
+      "sections": [
+        {
+          "heading": "Acuerdo",
+          "paragraphs": [
+            "Última actualización: septiembre de 2026. Usar {siteDomain}, o terminar el pago de un producto listado aquí, significa que aceptas estos Términos y condiciones y la Política de privacidad."
+          ]
+        },
+        {
+          "heading": "Qué compras",
+          "paragraphs": [
+            "Los productos son {cheatProduct} y las utilidades de la página de productos. La entrega es un portal de operador y un cargador en Windows.",
+            "Cada página de producto indica qué incluye esa compra en el momento en que pagas. Una actualización de VALORANT o del anti-cheat puede cambiar los módulos."
+          ]
+        },
+        {
+          "heading": "Pago y entrega",
+          "paragraphs": [
+            "El pago y la licencia se gestionan en páginas de pago externas. {siteDomain} no procesa ni almacena números de tarjeta de pago.",
+            "Consulta las instrucciones de entrega y configuración incluidas con el pedido."
+          ]
+        },
+        {
+          "heading": "Uso de la licencia",
+          "paragraphs": [
+            "Una licencia es solo para ti. No compartas archivos del cargador, accesos al portal ni claves de licencia. Los límites de HWID y dispositivo siguen el nivel y se aplican en el portal."
+          ]
+        },
+        {
+          "heading": "Reembolsos y compras",
+          "paragraphs": [
+            "Consulta las condiciones de devolución que figuran en el pago externo.",
+            "Para solicitar ayuda, incluye el número de pedido, la versión de Windows, la compilación del juego y una captura o el mensaje de error.",
+            "Contacta con soporte para resolver problemas de entrega o acceso."
+          ]
+        },
+        {
+          "heading": "Disponibilidad y riesgo",
+          "paragraphs": [
+            "Las herramientas de terceros para VALORANT pueden dejar de funcionar tras una actualización del juego o del anti-cheat. Usarlas puede llevar a acción sobre la cuenta.",
+            "Confirma los requisitos y la compatibilidad con soporte antes de comprar."
+          ]
+        },
+        {
+          "heading": "Cambios",
+          "paragraphs": [
+            "Estos términos pueden actualizarse. La fecha de última actualización arriba cambia cuando ocurre. Usar el sitio después de esa fecha significa que aceptas los términos revisados."
+          ]
+        },
+        {
+          "heading": "Soporte",
+          "paragraphs": [
+            "Preguntas de términos, facturación o cargador van por los botones de la página de Soporte. La Política de privacidad cubre cómo se tratan los datos del sitio."
+          ]
+        }
+      ]
+    },
+    "support": {
+      "title": "Soporte de {siteName}",
+      "description": "Errores del cargador, restablecimientos de HWID y preguntas de pago se gestionan desde {siteDomain}."
+    }
+  },
+  "common": {
+    "breadcrumbHome": "Inicio",
+    "breadcrumbProducts": "Productos",
+    "breadcrumbBlog": "Blog",
+    "breadcrumbForum": "Foro",
+    "breadcrumbFaq": "FAQ",
+    "breadcrumbAbout": "Acerca de",
+    "breadcrumbPrivacy": "Privacidad",
+    "breadcrumbTerms": "Términos",
+    "breadcrumbSupport": "Soporte",
+    "contactSupport": "Contactar soporte"
+  },
+  "notFound": {
+    "metaDescription": "Esta dirección no es una página en {siteDomain}. Abra la portada o la lista de productos para seguir.",
+    "title": "Página no encontrada",
+    "documentTitle": "Esta dirección no es una página",
+    "body": "Esa dirección no existe. Vuelve al inicio o abre la lista de productos.",
+    "backHome": "Volver al inicio",
+    "viewProducts": "Ver productos",
+    "viewElite": "Ver página del producto"
+  },
+  "pages": {
+    "faq": {
+      "eyebrow": "Centro de ayuda",
+      "title": "Valorant Cheats FAQ",
+      "description": "Compatibilidad con Windows, Cloud DMA, riesgos para la cuenta y ayuda con pedidos.",
+      "schemaName": "Valorant Cheats FAQ",
+      "schemaDescription": "Compatibilidad con Windows, Cloud DMA, riesgos para la cuenta y ayuda con pedidos."
+    },
+    "forum": {
+      "eyebrow": "Foro de Valorant",
+      "title": "Foro de Valorant",
+      "description": "Archivo de debates de solo lectura. Las respuestas están cerradas.",
+      "exploreGuides": "Explorar las guías",
+      "postsAria": "Publicaciones de la comunidad",
+      "sortAria": "Orden de publicaciones",
+      "sortPopular": "Popular",
+      "sortLatest": "Más recientes",
+      "sortTop": "Más comentados",
+      "filterAria": "Filtrar discusiones por tema",
+      "filterAll": "Todos los temas",
+      "resultsCount": "discusiones de guía",
+      "voteAria": "Votación de la discusión",
+      "upvoteAria": "Votar a favor de esta discusión",
+      "downvoteUnavailableAria": "Voto negativo no disponible",
+      "guideTeam": "Equipo de guías de {siteName}",
+      "guideBasedQa": "Preguntas y respuestas basadas en guías",
+      "fromGuide": "De la guía:",
+      "comments": "comentarios",
+      "closedThread": "Hilo cerrado",
+      "closedBy": "Cerrado por archivo",
+      "repliesClosed": "Las respuestas están cerradas",
+      "readDiscussion": "Leer discusión",
+      "empty": "Ninguna discusión coincide. Prueba otra búsqueda o tema.",
+      "emptyArchive": "Aún no hay discusiones. Los hilos nuevos aparecerán aquí.",
+      "categoryGeneral": "General",
+      "categoryGuides": "Guías y builds",
+      "categoryPatch": "Parches",
+      "categoryCommunity": "Comunidad",
+      "categoryLabels": {
+        "Gameplay Questions": "Preguntas de jugabilidad",
+        "Product Questions": "Preguntas sobre productos",
+        "Setup & Support": "Configuración y soporte",
+        "Game Updates": "Actualizaciones del juego",
+        "Features & Customization": "Funciones y personalización",
+        "Account & PC Questions": "Preguntas de cuenta y PC",
+        "PC Performance & Support": "Rendimiento del PC y soporte"
+      },
+      "paginationAria": "Páginas de discusión",
+      "pagePrevious": "Anterior",
+      "pageNext": "Siguiente",
+      "sidebarTitle": "Comunidad {siteName}",
+      "sidebarIntro": "Archivo de solo lectura. Los hilos siguen visibles como referencia; no puedes abrir un hilo ni responder.",
+      "statsDiscussions": "discusiones de guía",
+      "statsTopics": "temas",
+      "exploreAllGuides": "Explorar todas las guías",
+      "communitiesHeading": "Comunidades",
+      "browseRelated": "Ver preguntas y respuestas relacionadas",
+      "browseAllCommunities": "Ver todas las comunidades",
+      "guidelinesHeading": "Normas de la comunidad",
+      "guideline1": "Sé amable y constructivo",
+      "guideline2": "Mantente en el tema y aporta contexto",
+      "guideline3": "Marca spoilers y contenido sensible",
+      "readFullGuidelines": "Leer las normas completas",
+      "sidebarFoot": "Acerca de · Normas · Privacidad · Términos"
+    },
+    "utilities": {
+      "title": "HWID Spoofer",
+      "description": "Los identificadores de hardware se renuevan cuando otros PCs aceptan el inicio de sesión y este lo rechaza al instante.",
+      "viewDetails": "Abrir la página de la utilidad",
+      "includes": "En la licencia:",
+      "schemaName": "HWID Spoofer"
+    }
+  },
+  "ui": {
+    "skipLink": "Saltar al contenido principal",
+    "browseCheatsNav": "Probar ahora",
+    "browseCheatsNavMobile": "Ver producto",
+    "homeAria": "Inicio VALORANT Cheats",
+    "menuOpen": "Abrir menú",
+    "themeLight": "Cambiar a modo claro",
+    "languageSwitcherLabel": "Idioma",
+    "languageNames": {
+      "en": "English",
+      "es": "Español",
+      "de": "Deutsch",
+      "fr": "Français"
+    }
+  }
+}

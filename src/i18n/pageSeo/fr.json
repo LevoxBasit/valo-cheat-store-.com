@@ -1,0 +1,54 @@
+{
+  "/": {
+    "title": "Valorant Cheats | Aimbot & ESP | VALO CHEAT STORE",
+    "description": "Réglez la visée, repérez les joueurs derrière les obstacles et suivez les capacités compatibles ainsi que la progression du spike."
+  },
+  "/cheats/": {
+    "title": "Menu de cheats Valorant pour Windows",
+    "description": "Ajustez le FOV et la sélection des cibles. Choisissez les données des joueurs, des capacités et du spike. Cloud DMA est requis pour toutes les fonctions sur les versions compatibles."
+  },
+  "/hwid-spoofer/": {
+    "title": "HWID Spoofer | Windows",
+    "description": "Couvre les numéros de série, les adresses MAC et les identifiants GPU. Un outil de nettoyage est inclus."
+  },
+  "/products/": {
+    "title": "Nos produits | VALO CHEAT STORE",
+    "description": "Le catalogue présente Valorant Cheats et trois utilitaires distincts, avec leurs prérequis et liens d’achat."
+  },
+  "/skin-changer/": {
+    "title": "Skin Changer | PC",
+    "description": "Prévisualisez des finitions, tenues et couteaux dans les jeux pris en charge. Confirmez la couverture avant achat."
+  },
+  "/blog/": {
+    "title": "Guides Valorant",
+    "description": "Réglages de visée, indicateurs, prérequis PC et vérifications avant achat."
+  },
+  "/forum/": {
+    "title": "Forum Valorant",
+    "description": "Archive de discussions en lecture seule. Les réponses sont fermées."
+  },
+  "/faq/": {
+    "title": "Valorant Cheats FAQ | Cloud DMA & Windows",
+    "description": "Compatibilité Windows, Cloud DMA, risques pour le compte et aide à la commande."
+  },
+  "/terms/": {
+    "title": "Conditions de vente | Licences et remboursements",
+    "description": "Découvrez comment sont gérées les commandes et les licences et où consulter les conditions de remboursement."
+  },
+  "/privacy/": {
+    "title": "Politique de confidentialité | Analyses, cookies et tickets",
+    "description": "Ce que {siteDomain} collecte en analyses, quels cookies il pose et combien de temps un ticket garde votre e-mail."
+  },
+  "/about/": {
+    "title": "VALO CHEAT STORE | Nos produits",
+    "description": "Découvrez le rôle de VALO CHEAT STORE et où consulter les prérequis, les informations de commande et l’assistance."
+  },
+  "/support/": {
+    "title": "Support | Chargeur, commandes et aide installation",
+    "description": "Ouvrez un ticket pour un problème de commande ou d’installation, consultez les guides et trouvez des réponses sur les paiements et les comptes."
+  },
+  "/cloud-dma/": {
+    "title": "Cloud DMA | Hyper-V",
+    "description": "GREENWARD, Static Server et AWS sont requis séparément. Vérifiez les prérequis Windows et Hyper-V."
+  }
+}

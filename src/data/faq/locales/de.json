@@ -1,0 +1,152 @@
+[
+  {
+    "id": "status",
+    "q": "Wie prüfe ich die Kompatibilität?",
+    "a": "Frage den Support nach deiner Windows-Version, dem VALORANT-Build und der Cloud-DMA-Einrichtung."
+  },
+  {
+    "id": "after-buy",
+    "q": "Was passiert nach dem Kauf?",
+    "a": "Folge den Liefer- und Einrichtungshinweisen zu deiner Bestellung."
+  },
+  {
+    "id": "ban-risk",
+    "q": "Kann mein Konto gesperrt werden?",
+    "a": "Riot kann Konten für Änderungen durch Drittanbieter sanktionieren. Updates können die Kompatibilität beeinflussen."
+  },
+  {
+    "id": "platforms",
+    "q": "Welche Plattform wird unterstützt?",
+    "a": "Dokumentiert ist ein Windows-PC. Frage vor dem Kauf nach der genauen Version."
+  },
+  {
+    "id": "license-move",
+    "q": "Kann ich die Lizenz auf einen anderen PC übertragen?",
+    "a": "Erfrage beim Support die Transferregeln zu deiner Bestellung."
+  },
+  {
+    "id": "products-page",
+    "q": "Wo finde ich alle Produkte?",
+    "a": "Im Katalog findest du Valorant Cheats und drei separate Tools samt Anforderungen und Kaufoptionen."
+  },
+  {
+    "id": "cloud-dma-what",
+    "q": "Was installiert Cloud DMA?",
+    "a": "Das Installationsprogramm richtet die virtuelle Umgebung auf deinem PC ein und aktiviert den Dienst über eine verschlüsselte Verbindung."
+  },
+  {
+    "id": "cloud-dma-requires",
+    "q": "Was muss ich zusätzlich kaufen?",
+    "a": "Cloud DMA kann GREENWARD, Static Server und AWS als separate Käufe erfordern. Prüfe die Voraussetzungen und den aktuellen Preis beim Checkout."
+  },
+  {
+    "id": "cloud-dma-license",
+    "q": "Was kostet die Cloud-DMA-Lizenz?",
+    "a": "Aktuelle Optionen, Zugangsbedingungen und Preise werden beim Checkout angezeigt."
+  },
+  {
+    "id": "skin-visible",
+    "q": "Legt Skin Changer Kosmetik in mein Inventar?",
+    "a": "Nein. <a href=\"/skin-changer/\">Skin Changer</a> zeichnet Kosmetik nur auf Ihrem Client. Das Inventar bleibt leer. Handel bleibt unmöglich. Andere Spieler sollen das Finish voraussichtlich nicht sehen."
+  },
+  {
+    "id": "skin-games",
+    "q": "Welche Spiele listet Skin Changer?",
+    "a": "Wichtige Spiele stehen auf der Produktseite. Ein Patch kann den Support entfernen. Mailen Sie den Support und nennen Sie Ihren Titel vor dem Checkout."
+  },
+  {
+    "id": "utility-requirements",
+    "q": "Welche Windows-Einrichtung brauchen die Utilities?",
+    "a": "Windows 10 oder 11. HVCI und Core Isolation an. TPM und Secure Boot an, in Windows-Sicherheit und in der Firmware. HWID Spoofer braucht außerdem Administratorrechte. Jede Utility-Seite listet den Rest."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "Spieler-ESP?",
+    "a": "Boxen, Skelette und Kopfkreise zeigen Positionen. Gesundheit, Schild, Agent und Ausrüstung lassen sich ergänzen."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "Spieler-ESP / Aimbot?",
+    "a": "Boxen, Skelette und Kopfkreise zeigen Positionen. Gesundheit, Schild, Agent und Ausrüstung lassen sich ergänzen. Das FOV legt den Zielbereich fest. Glättung und Geschwindigkeit steuern die Bewegung der Zielhilfe."
+  },
+  {
+    "id": "cloud-dma-dependency",
+    "q": "Cloud DMA prüfen?",
+    "a": "Für den vollen Funktionsumfang in unterstützten Builds ist das separat erhältliche Cloud DMA erforderlich."
+  },
+  {
+    "id": "stream-proof",
+    "q": "Kann OBS mein Overlay erfassen?",
+    "a": "Eine Ausblendung in Aufnahmen wird beworben. Die Kompatibilität mit einzelnen Aufnahmeprogrammen ist ungeprüft."
+  },
+  {
+    "id": "build-status",
+    "q": "Wie prüfe ich die Kompatibilität?",
+    "a": "Frage den Support nach deiner Windows-Version, dem VALORANT-Build und der Cloud-DMA-Einrichtung."
+  },
+  {
+    "id": "esp-safer",
+    "q": "Kann mein Konto gesperrt werden?",
+    "a": "Riot kann Konten für Änderungen durch Drittanbieter sanktionieren. Updates können die Kompatibilität beeinflussen."
+  },
+  {
+    "id": "hwid-when",
+    "q": "Wann ist HWID Spoofer das richtige Produkt?",
+    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> ist für ein Hardware-ID-Flag: andere PCs akzeptieren den Login, dieser lehnt ab. Festplattenseriennummern werden erneuert. MAC-Adressen, GPU-IDs und verwandte Werte ebenfalls. Ein Cleaner ist enthalten. Ein weiterhin sanktioniertes Konto wird nicht gelöscht."
+  },
+  {
+    "id": "external-loader",
+    "q": "Was passiert nach dem Kauf?",
+    "a": "Folge den Liefer- und Einrichtungshinweisen zu deiner Bestellung."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "Valorant-Anleitungen?",
+    "a": "Zielsteuerung, Anzeigen, PC-Anforderungen und Fragen vor dem Kauf."
+  },
+  {
+    "id": "blog-setup",
+    "q": "Cloud DMA prüfen?",
+    "a": "GREENWARD, Static Server und AWS sind separat erforderlich. Prüfe die Anforderungen für Windows und Hyper-V."
+  },
+  {
+    "id": "who-cheats",
+    "q": "Das bietet Valorant Cheats?",
+    "a": "Einstellbarer Aimbot, Wallhack, Spieler- und Welt-ESP sowie Spike-Infos."
+  },
+  {
+    "id": "after-vanguard-update",
+    "q": "Wie prüfe ich die Kompatibilität?",
+    "a": "Kläre den Spielbuild und prüfe die Cloud-DMA-Anforderungen vor der Bestellung."
+  },
+  {
+    "id": "discord-help",
+    "q": "Support?",
+    "a": "Nenne dem Support deine Windows-Version und den aktuellen Spielbuild."
+  },
+  {
+    "id": "combat-mode",
+    "q": "Kampfmodus?",
+    "a": "Die Taste für den Kampfmodus blendet Anzeigen für Fähigkeiten und Fallen aus."
+  },
+  {
+    "id": "spike-tracking",
+    "q": "Wallhack?",
+    "a": "Positionslinien und Blickrichtung liefern zusätzlichen Kontext zu den Spielermarkierungen."
+  },
+  {
+    "id": "aim-target-controls",
+    "q": "Zielauswahl?",
+    "a": "Wähle den Zielpunkt am Körper und stelle Zielbindung und Sichtprüfung ein."
+  },
+  {
+    "id": "saved-configs",
+    "q": "Gespeicherte Profile?",
+    "a": "Erstelle, speichere, lade und entlade Profile im Menü. Dort lässt sich auch die Schriftgröße ändern."
+  },
+  {
+    "id": "faq-more",
+    "q": "Wo ist die vollständige FAQ?",
+    "a": "Kurze Antworten stehen auf der Startseite und auf jeder Produktseite. Die <a href=\"/faq/\">vollständige FAQ</a> hat den ganzen Satz, und <a href=\"/blog/\">Blog-Guides</a> sind für längere Anleitungen, wenn sie erscheinen."
+  }
+]

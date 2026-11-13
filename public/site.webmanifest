@@ -1,0 +1,30 @@
+{
+  "name": "VALO CHEAT STORE",
+  "short_name": "VALO CHEAT STORE",
+  "description": "Valorant Cheats for Windows with adjustable aimbot, player ESP and objective overlays.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#131416",
+  "theme_color": "#131416",
+  "lang": "en-US",
+  "icons": [
+    {
+      "src": "/apple-touch-icon.png?v=7",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/images/brand/brand-logo-512.webp?v=9",
+      "sizes": "512x512",
+      "type": "image/webp",
+      "purpose": "any"
+    },
+    {
+      "src": "/favicon-32.png?v=7",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ]
+}

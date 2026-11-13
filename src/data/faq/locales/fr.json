@@ -1,0 +1,152 @@
+[
+  {
+    "id": "status",
+    "q": "Comment vérifier la compatibilité ?",
+    "a": "Donnez au support votre version de Windows, la version de VALORANT et votre configuration Cloud DMA."
+  },
+  {
+    "id": "after-buy",
+    "q": "Que se passe-t-il après l’achat ?",
+    "a": "Suivez les instructions de livraison et de configuration jointes à la commande."
+  },
+  {
+    "id": "ban-risk",
+    "q": "Mon compte peut-il être sanctionné ?",
+    "a": "Riot peut sanctionner l’usage de modifications tierces. Les mises à jour peuvent modifier la compatibilité."
+  },
+  {
+    "id": "platforms",
+    "q": "Quelles plateformes sont prises en charge ?",
+    "a": "Le produit est documenté pour PC Windows. Confirmez votre version exacte avant l’achat."
+  },
+  {
+    "id": "license-move",
+    "q": "Puis-je transférer ma licence sur un autre PC ?",
+    "a": "Demandez au support les conditions de transfert applicables à votre commande."
+  },
+  {
+    "id": "products-page",
+    "q": "Où comparer les produits ?",
+    "a": "Le catalogue présente Valorant Cheats et trois utilitaires distincts, avec leurs prérequis et liens d’achat."
+  },
+  {
+    "id": "cloud-dma-what",
+    "q": "Que configure Cloud DMA ?",
+    "a": "Le programme d’installation prépare l’environnement virtuel sur votre PC et active le service via une connexion chiffrée."
+  },
+  {
+    "id": "cloud-dma-requires",
+    "q": "Quels autres achats sont nécessaires ?",
+    "a": "Selon la configuration, GREENWARD, Static Server et AWS peuvent nécessiter des achats séparés."
+  },
+  {
+    "id": "cloud-dma-license",
+    "q": "Combien coûte la licence Cloud DMA ?",
+    "a": "Consultez le prix en vigueur de la licence à vie au moment du paiement."
+  },
+  {
+    "id": "skin-visible",
+    "q": "Skin Changer ajoute-t-il des cosmétiques à mon inventaire ?",
+    "a": "Non. <a href=\"/skin-changer/\">Skin Changer</a> dessine le cosmétique sur votre client seulement. L'inventaire reste vide. Un échange reste impossible. Les autres joueurs ne devraient pas voir la finition."
+  },
+  {
+    "id": "skin-games",
+    "q": "Quels jeux Skin Changer liste-t-il ?",
+    "a": "Les jeux majeurs sont nommés sur la page produit. Un patch peut retirer ce support. Écrivez au support et indiquez votre titre avant le paiement."
+  },
+  {
+    "id": "utility-requirements",
+    "q": "Quelle configuration Windows les utilitaires exigent-ils ?",
+    "a": "Windows 10 ou 11. HVCI et Core Isolation activés. TPM et Secure Boot activés, dans Sécurité Windows et dans le firmware. HWID Spoofer exige aussi les droits administrateur. Chaque page utilitaire liste le reste."
+  },
+  {
+    "id": "what-is-esp",
+    "q": "ESP des joueurs?",
+    "a": "Cadres, squelettes et repères de tête indiquent les positions. Ajoutez la santé, le bouclier, l’agent ou son équipement."
+  },
+  {
+    "id": "esp-vs-aim",
+    "q": "ESP des joueurs / Aimbot?",
+    "a": "Cadres, squelettes et repères de tête indiquent les positions. Ajoutez la santé, le bouclier, l’agent ou son équipement. Le FOV délimite la zone de visée. Le lissage et la vitesse règlent le mouvement de l’assistance."
+  },
+  {
+    "id": "cloud-dma-dependency",
+    "q": "Vérifiez les prérequis de Cloud DMA?",
+    "a": "Disponible séparément, Cloud DMA est requis pour toutes les fonctions sur les versions compatibles."
+  },
+  {
+    "id": "stream-proof",
+    "q": "OBS peut-il capturer ma superposition ?",
+    "a": "Le produit annonce un masquage lors des captures. La compatibilité avec les applications de capture précises reste à vérifier."
+  },
+  {
+    "id": "build-status",
+    "q": "Comment vérifier la compatibilité ?",
+    "a": "Donnez au support votre version de Windows, la version de VALORANT et votre configuration Cloud DMA."
+  },
+  {
+    "id": "esp-safer",
+    "q": "Mon compte peut-il être sanctionné ?",
+    "a": "Riot peut sanctionner l’usage de modifications tierces. Les mises à jour peuvent modifier la compatibilité."
+  },
+  {
+    "id": "hwid-when",
+    "q": "Quand ouvrir HWID Spoofer ?",
+    "a": "<a href=\"/hwid-spoofer/\">HWID Spoofer</a> sert pour un flag d'ID matériel : d'autres PC acceptent la connexion et celui-ci la refuse. Les numéros de série disque sont rafraîchis. Adresses MAC, ID GPU et valeurs liées aussi. Un nettoyeur est inclus. Un compte toujours sanctionné n'est pas effacé."
+  },
+  {
+    "id": "external-loader",
+    "q": "Que se passe-t-il après l’achat ?",
+    "a": "Suivez les instructions de livraison et de configuration jointes à la commande."
+  },
+  {
+    "id": "blog-vs-cheats",
+    "q": "Guides Valorant?",
+    "a": "Réglages de visée, indicateurs, prérequis PC et vérifications avant achat."
+  },
+  {
+    "id": "blog-setup",
+    "q": "Vérifiez les prérequis de Cloud DMA?",
+    "a": "GREENWARD, Static Server et AWS sont requis séparément. Vérifiez les prérequis Windows et Hyper-V."
+  },
+  {
+    "id": "who-cheats",
+    "q": "Les fonctions de Valorant Cheats?",
+    "a": "Aimbot réglable, wallhack, ESP des joueurs et du décor, et suivi du spike."
+  },
+  {
+    "id": "after-vanguard-update",
+    "q": "Comment vérifier la compatibilité ?",
+    "a": "Confirmez la version du jeu et les prérequis de Cloud DMA avant l’achat."
+  },
+  {
+    "id": "discord-help",
+    "q": "Support?",
+    "a": "Indiquez au support votre version de Windows et celle de VALORANT."
+  },
+  {
+    "id": "combat-mode",
+    "q": "Mode combat?",
+    "a": "Le raccourci du mode combat masque les indicateurs de capacités et de pièges."
+  },
+  {
+    "id": "spike-tracking",
+    "q": "Wallhack?",
+    "a": "Les lignes de position et la direction du regard complètent les repères déjà affichés pour les joueurs."
+  },
+  {
+    "id": "aim-target-controls",
+    "q": "Sélection des cibles?",
+    "a": "Choisissez une zone du corps et réglez le maintien de la cible et le contrôle de visibilité."
+  },
+  {
+    "id": "saved-configs",
+    "q": "Profils enregistrés?",
+    "a": "Créez, enregistrez, chargez ou déchargez un profil dans le menu. La taille du texte est réglable."
+  },
+  {
+    "id": "faq-more",
+    "q": "Où est la FAQ complète ?",
+    "a": "Des réponses courtes sont sur la page d'accueil et sur chaque page produit. La <a href=\"/faq/\">FAQ complète</a> contient l'ensemble, et les <a href=\"/blog/\">guides du blog</a> accueillent les guides plus longs quand ils sont publiés."
+  }
+]

@@ -1,0 +1,406 @@
+{
+  "sharedGoodToKnow": "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles. Confirma la versión del juego y los requisitos de Cloud DMA antes de comprar.",
+  "sharedLimitations": "Riot puede sancionar el uso de modificaciones de terceros. Las actualizaciones también pueden afectar a la compatibilidad.",
+  "acquisitionSteps": [
+    {
+      "num": "01",
+      "title": "Confirma tu versión de Windows",
+      "desc": "Comparte con soporte tu versión de Windows y la compilación del juego."
+    },
+    {
+      "num": "02",
+      "title": "Revisa Cloud DMA",
+      "desc": "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles."
+    },
+    {
+      "num": "03",
+      "title": "Ver opciones de compra",
+      "desc": "El catálogo reúne Valorant Cheats y tres utilidades separadas, con requisitos y enlaces de compra."
+    },
+    {
+      "num": "04",
+      "title": "Sigue las instrucciones del pedido",
+      "desc": "Consulta las instrucciones de entrega y configuración. Guarda tus ajustes desde el menú."
+    }
+  ],
+  "systemRequirements": [
+    "Está documentado para PC con Windows. Confirma la versión exacta antes de comprar.",
+    "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles."
+  ],
+  "gallery": [
+    {
+      "alt": "Ilustración de agentes con marcadores de colores junto a un panel morado de puntería.",
+      "caption": "Ilustración de la superposición",
+      "captionDesc": "Una escena estilizada de VALORANT muestra marcadores de jugadores junto a un menú ilustrado."
+    },
+    {
+      "alt": "Panel de aimbot con controles de suavidad, velocidad, campo de visión y fijación.",
+      "caption": "Vista del panel de aimbot",
+      "captionDesc": "La vista muestra los controles de puntería y una opción de comprobación de visibilidad."
+    },
+    {
+      "alt": "Panel del entorno con opciones de spike, trampas y habilidades, y un control de distancia.",
+      "caption": "Vista del panel del entorno",
+      "captionDesc": "La vista agrupa los indicadores de la spike, las trampas y las habilidades con los controles de distancia."
+    }
+  ],
+  "tiers": {
+    "elite": {
+      "about": [
+        {
+          "type": "h2",
+          "text": "Aimbot"
+        },
+        {
+          "type": "p",
+          "text": "El FOV delimita la zona de puntería. La suavidad y la velocidad regulan el movimiento de la asistencia."
+        },
+        {
+          "type": "p",
+          "text": "Define la zona del cuerpo y ajusta la fijación y la comprobación de visibilidad."
+        },
+        {
+          "type": "h2",
+          "text": "ESP de jugadores"
+        },
+        {
+          "type": "p",
+          "text": "Los recuadros, esqueletos y círculos marcan la posición. Añade barras de vida y escudo, agente o arma."
+        },
+        {
+          "type": "p",
+          "text": "Las líneas de posición y la dirección de la mirada amplían lo que muestra el ESP de jugadores."
+        },
+        {
+          "type": "h2",
+          "text": "ESP de habilidades"
+        },
+        {
+          "type": "p",
+          "text": "Muestra indicadores para habilidades compatibles, con iconos, distancia y opciones por agente."
+        },
+        {
+          "type": "p",
+          "text": "Identifica trampas compatibles y limita el alcance de los indicadores del entorno."
+        },
+        {
+          "type": "p",
+          "text": "Consulta el tiempo y el progreso de desactivación en los estados compatibles de la spike."
+        },
+        {
+          "type": "p",
+          "text": "La tecla de Modo Combate oculta los indicadores de habilidades y trampas."
+        },
+        {
+          "type": "h2",
+          "text": "Configuraciones"
+        },
+        {
+          "type": "p",
+          "text": "Crea, guarda, carga y descarga configuraciones desde el menú. También puedes ajustar el tamaño del texto."
+        },
+        {
+          "type": "p",
+          "text": "El proveedor anuncia una superposición que puede excluirse de las grabaciones. No se ha verificado la compatibilidad con aplicaciones específicas."
+        }
+      ],
+      "body": [
+        {
+          "type": "h2",
+          "text": "Ver opciones de compra"
+        },
+        {
+          "type": "p",
+          "text": "Sigue las instrucciones de entrega y configuración del pedido."
+        },
+        {
+          "type": "h2",
+          "text": "Revisa Cloud DMA"
+        },
+        {
+          "type": "p",
+          "text": "Está documentado para PC con Windows. Confirma la versión exacta con [soporte de configuración](/support/) antes de comprar."
+        },
+        {
+          "type": "p",
+          "text": "Cloud DMA se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles. Consulta la [guía de instalación de Windows](/blog/valorant-windows-setup/)."
+        }
+      ],
+      "overview": {
+        "title": "Menú de Valorant Cheats para Windows",
+        "paragraphs": [
+          "Ajusta el FOV y la selección de objetivos. Elige datos de jugadores, habilidades y spike. Cloud DMA se requiere para todas las funciones en versiones compatibles.",
+          "Muestra indicadores para habilidades compatibles, con iconos, distancia y opciones por agente. Consulta el tiempo y el progreso de desactivación en los estados compatibles de la spike."
+        ]
+      },
+      "goodToKnow": "Se adquiere por separado y se requiere para disponer de todas las funciones en versiones compatibles. Confirma la versión del juego y los requisitos de Cloud DMA antes de comprar.",
+      "limitations": "Riot puede sancionar el uso de modificaciones de terceros. Las actualizaciones también pueden afectar a la compatibilidad.",
+      "acquisitionTitle": "Confirma la compatibilidad y revisa los requisitos de Cloud DMA antes de comprar.",
+      "fullFeatures": [
+        "Aimbot",
+        "FOV e indicador del FOV",
+        "Suavidad / Velocidad",
+        "Fijación",
+        "Filtro de objetivos",
+        "Zona del cuerpo",
+        "Visibilidad",
+        "Línea de objetivo",
+        "Recuadros y esqueletos",
+        "Círculos de cabeza y líneas de posición",
+        "Dirección de la mirada",
+        "Vida y escudo",
+        "Identidad del agente",
+        "Rango y nivel",
+        "Arma equipada",
+        "Distancia máxima",
+        "ESP de habilidades",
+        "ESP de trampas",
+        "Iconos / Distancia",
+        "Opciones por agente",
+        "Tiempo",
+        "Progreso de desactivación",
+        "Modo Combate",
+        "Colores",
+        "Configuraciones",
+        "Tamaño del texto"
+      ]
+    }
+  },
+  "utilities": {
+    "hwid-spoofer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Marcas que permanecen en la máquina"
+        },
+        {
+          "type": "p",
+          "text": "El panel agrupa números de serie de discos, direcciones MAC e identificadores de GPU. La comprobación indica qué valores cambiaron."
+        },
+        {
+          "type": "h2",
+          "text": "Familias antitrampas descritas en esta página"
+        },
+        {
+          "type": "p",
+          "text": "La lista publicada incluye Riot Vanguard, Easy Anti-Cheat, BattlEye, Ricochet, ACE y Javelin. Confirma la cobertura de tu compilación antes de comprar."
+        },
+        {
+          "type": "h2",
+          "text": "Limpieza incluida en la licencia"
+        },
+        {
+          "type": "p",
+          "text": "La licencia incluye un limpiador de rastros. La documentación del producto especifica cuándo usarlo según la configuración."
+        },
+        {
+          "type": "h2",
+          "text": "Requisitos en este PC"
+        },
+        {
+          "type": "p",
+          "text": "Requiere Windows 10 u 11 de 64 bits, permisos de administrador y conexión a internet. Los requisitos incluyen HVCI, aislamiento del núcleo, TPM y Arranque seguro."
+        }
+      ],
+      "overview": {
+        "title": "Un refresco cuando el bloqueo es este PC",
+        "paragraphs": [
+          "Cubre números de serie, direcciones MAC e identificadores de GPU e incluye un limpiador de rastros.",
+          "Otros equipos pueden aceptar un inicio de sesión nuevo mientras este lo detiene al instante. Ese es el caso de este producto. Una sanción guardada en el registro de la cuenta permanece. Las herramientas en las dos licencias son las mismas."
+        ]
+      },
+      "goodToKnow": "El fabricante puede cambiar la compatibilidad mediante una actualización. Confirma la cobertura actual con soporte.",
+      "limitations": "Este producto es para marcas de ID de hardware. Una sanción de cuenta que sigue activa permanece activa. La suplantación puede entrar en conflicto con los términos del editor y traer nuevas sanciones. Una actualización del proveedor puede terminar una nota antitrampas listada sin aviso previo en esta página.",
+      "acquisitionTitle": "Pedido de esta licencia HWID",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Compare su título con la lista",
+          "desc": "El fabricante puede cambiar la compatibilidad mediante una actualización. Confirma la cobertura actual con soporte."
+        },
+        {
+          "num": "02",
+          "title": "Elija 31 días o lifetime",
+          "desc": "Cualquier licencia incluye el panel del operador y el limpiador de rastros."
+        },
+        {
+          "num": "03",
+          "title": "Configure Windows antes de la primera suplantación",
+          "desc": "En Seguridad de Windows, active HVCI y Core Isolation. En firmware, active TPM y Secure Boot. Haga ambos antes de la primera sesión. También se requieren derechos de administrador en este PC para la suplantación y el limpiador."
+        },
+        {
+          "num": "04",
+          "title": "Cambie IDs, limpie e inicie",
+          "desc": "El orden de la guía del portal es el cambio de identificador, luego la limpieza incluida, luego el cliente del juego."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "En Seguridad de Windows, HVCI y Core Isolation activos.",
+        "Derechos de administrador para la suplantación y el limpiador.",
+        "Internet estable para activación y actualizaciones.",
+        "TPM y Secure Boot activos en BIOS/UEFI."
+      ],
+      "gallery": [
+        {
+          "alt": "Escena de VALORANT junto a una ilustración del panel de HWID Spoofer.",
+          "caption": "Ilustración de HWID Spoofer",
+          "captionDesc": "Imagen promocional con una maqueta del panel de HWID Spoofer."
+        }
+      ]
+    },
+    "skin-changer": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Qué dibuja el cliente"
+        },
+        {
+          "type": "p",
+          "text": "Explora acabados de armas, atuendos y variantes de cuchillos en la biblioteca de los juegos compatibles. La licencia da acceso a esa biblioteca."
+        },
+        {
+          "type": "h2",
+          "text": "Visible solo en su pantalla"
+        },
+        {
+          "type": "p",
+          "text": "La vista previa se dibuja en tu pantalla durante la sesión. No crea objetos de inventario ni artículos intercambiables."
+        },
+        {
+          "type": "h2",
+          "text": "La lista compatible puede cambiar"
+        },
+        {
+          "type": "p",
+          "text": "Consulta con soporte si tu versión del juego y el tipo de cosmético están admitidos. Las actualizaciones pueden afectar a la cobertura."
+        },
+        {
+          "type": "h2",
+          "text": "Configuración del PC para el cliente cosmético"
+        },
+        {
+          "type": "p",
+          "text": "El cliente indica Windows 10 u 11 de 64 bits, internet y acceso al cargador, además de HVCI, aislamiento del núcleo, TPM y Arranque seguro."
+        }
+      ],
+      "overview": {
+        "title": "Acabados dibujados aquí, no comprados uno a uno",
+        "paragraphs": [
+          "Previsualiza acabados, atuendos y cuchillos en juegos compatibles. Confirma la cobertura antes de comprar.",
+          "La imagen permanece en su máquina. No se escribe en el inventario de la cuenta. Ambos planes comparten una biblioteca. Antes de comprar, pida al soporte que confirme el título."
+        ]
+      },
+      "goodToKnow": "El cosmético aparece solo dentro de su cliente local. El inventario no recibe el artículo. Pregunte al personal si el título está cubierto antes del pago.",
+      "limitations": "Un cliente cosmético aún puede entrar en conflicto con los términos del juego y provocar acción sobre la cuenta. Un acabado no es un bien real. No se puede comerciar. Desaparece al salir del cliente. Un parche o una actualización de Windows puede cambiar qué juegos y artículos están listados.",
+      "acquisitionTitle": "Antes del cliente cosmético",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Pregunte si su juego sigue listado",
+          "desc": "Los títulos principales están cubiertos, y un parche puede mover esa lista. Envíe al soporte el nombre del juego antes del pago y pregunte si esos cosméticos siguen listados."
+        },
+        {
+          "num": "02",
+          "title": "Elija cuánto dura la licencia cosmética",
+          "desc": "La biblioteca en sí no cambia con el plazo. Las opciones, condiciones de acceso y precios actuales aparecen al pagar."
+        },
+        {
+          "num": "03",
+          "title": "Prepare Windows para el cliente cosmético",
+          "desc": "Antes de la primera sesión, Seguridad de Windows necesita HVCI y Core Isolation. El firmware necesita TPM y Secure Boot."
+        },
+        {
+          "num": "04",
+          "title": "Elija aspectos dentro del cliente",
+          "desc": "Cuando el portal haya entregado acceso, abra el cliente ligero. Para esa sesión, elija un skin de arma, un atuendo o una variante de cuchillo."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11, 64 bits.",
+        "Core Isolation y HVCI activos en Seguridad de Windows.",
+        "Secure Boot y TPM activos en BIOS/UEFI.",
+        "Internet, más acceso al cargador, tras la compra."
+      ],
+      "gallery": [
+        {
+          "alt": "Escudo Skin Changer con rifles cruzados, revólveres y destellos de estrella.",
+          "caption": "Marca cosmética",
+          "captionDesc": "Acabados de armas, atuendos de personaje y estilos de cuchillo se dibujan solo en su pantalla."
+        }
+      ]
+    },
+    "cloud-dma": {
+      "body": [
+        {
+          "type": "h2",
+          "text": "Cloud DMA en un PC con Windows"
+        },
+        {
+          "type": "p",
+          "text": "El instalador guiado configura un entorno Hyper-V en el PC de juego. La activación usa una conexión cifrada. Comprueba que tu edición de Windows incluya Hyper-V. [Guía de instalación de Windows](/blog/valorant-windows-setup/)."
+        },
+        {
+          "type": "h2",
+          "text": "Pedido"
+        },
+        {
+          "type": "p",
+          "text": "GREENWARD, Static Server y AWS son requisitos independientes. Comprueba también la memoria y la virtualización del procesador antes de comprar."
+        }
+      ],
+      "overview": {
+        "title": "Cloud DMA en un PC con Windows",
+        "paragraphs": [
+          "GREENWARD, Static Server y AWS se adquieren por separado. Revisa los requisitos de Windows y Hyper-V.",
+          "Consulta las especificaciones de Hyper-V, virtualización y servicios antes de comprar."
+        ]
+      },
+      "goodToKnow": "Cloud DMA puede requerir GREENWARD, Static Server y AWS como compras separadas. Consulta los requisitos y el precio vigente al pagar.",
+      "limitations": "Cloud DMA está diseñado para un solo PC. Los sistemas que necesitan un dispositivo DMA externo o un segundo equipo quedan fuera de su alcance.",
+      "acquisitionTitle": "Configuración",
+      "acquisitionSteps": [
+        {
+          "num": "01",
+          "title": "Comprueba Windows y el firmware",
+          "desc": "Confirma que tu edición de Windows admite Hyper-V y activa la virtualización en el firmware."
+        },
+        {
+          "num": "02",
+          "title": "Revisa las compras adicionales",
+          "desc": "Compra GREENWARD, Static Server y AWS por separado."
+        },
+        {
+          "num": "03",
+          "title": "Elige el acceso de por vida",
+          "desc": "Las opciones, condiciones de acceso y precios actuales aparecen al pagar."
+        },
+        {
+          "num": "04",
+          "title": "Ejecuta la instalación guiada",
+          "desc": "Instala el entorno Hyper-V y actívalo con una conexión estable."
+        }
+      ],
+      "systemRequirements": [
+        "Windows 10 u 11 de 64 bits con Hyper-V disponible. Se recomienda Pro, Enterprise o Education.",
+        "Intel VT-x o AMD-V activado en el firmware, con TPM y arranque seguro.",
+        "HVCI y aislamiento del núcleo activos en Seguridad de Windows.",
+        "Al menos 8 GB de RAM. Se recomiendan 16 GB.",
+        "Banda ancha estable para la activación y la conexión al servicio."
+      ],
+      "fullFeatures": [
+        "Configuración en un solo PC",
+        "Instalación guiada de Hyper-V",
+        "Activación cifrada",
+        "Acceso de por vida"
+      ],
+      "gallery": [
+        {
+          "alt": "Icono de Cloud DMA con una nube brillante de color morado y azul",
+          "caption": "Configuración en un solo PC",
+          "captionDesc": "Hyper-V se ejecuta en el PC y se conecta al servicio para la activación."
+        }
+      ]
+    }
+  }
+}

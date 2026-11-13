@@ -1,0 +1,95 @@
+{
+  "eyebrow": "Shop",
+  "title": "Produkte",
+  "subtitle": "Im Katalog findest du Valorant Cheats und drei separate Tools samt Anforderungen und Kaufoptionen.",
+  "trust": [
+    "Portal-Lieferung",
+    "Support",
+    "Optionen beim Checkout"
+  ],
+  "featuredEyebrow": "Hauptprodukt",
+  "from": "Ab",
+  "priceLabel": "Preis",
+  "lifetime": "Lifetime",
+  "perMonth": "/ Monat",
+  "utilitiesEyebrow": "Utilities",
+  "utilitiesTitle": "Weitere Tools, die wir verkaufen",
+  "utilitiesDesc": "Jede Utility ist eine eigene Lizenz, mit eigener Seite und eigenem Checkout.",
+  "chooserEyebrow": "Unsicher?",
+  "chooserTitle": "Welches Produkt brauche ich?",
+  "chooserDesc": "Starten Sie bei der Situation. Jede Zeile öffnet das passende Produkt.",
+  "scenarios": [
+    {
+      "slug": "elite",
+      "need": "Passe Zielhilfe und Anzeigen getrennt an. Lies Spike-Infos ab und speichere dein Profil.",
+      "answer": "{cheatProduct}"
+    },
+    {
+      "slug": "hwid-spoofer",
+      "need": "Ein neues Konto meldet sich auf anderen PCs an und scheitert sofort auf diesem.",
+      "answer": "HWID Spoofer"
+    },
+    {
+      "slug": "cloud-dma",
+      "need": "Ich benötige Cloud DMA auf einem Windows-PC.",
+      "answer": "Cloud DMA"
+    },
+    {
+      "slug": "skin-changer",
+      "need": "Ich will Premium-Finishes auf dem Bildschirm und will nicht pro Kosmetik zahlen.",
+      "answer": "Skin Changer"
+    }
+  ],
+  "compareEyebrow": "Vergleichen",
+  "compareTitle": "Produkte nebeneinander vergleichen",
+  "compareDesc": "Vergleiche Funktionen, Lieferung und Anforderungen. Details stehen auf den Produktseiten.",
+  "compareRows": [
+    {
+      "label": "Am besten für",
+      "values": {
+        "elite": "Einstellbarer Aimbot, Wallhack, Spieler- und Welt-ESP sowie Spike-Infos.",
+        "hwid-spoofer": "Ein PC, auf Hardware-Ebene blockiert",
+        "skin-changer": "Kosmetik-Vorschau auf diesem Client",
+        "cloud-dma": "Infrastruktur für einen PC"
+      }
+    },
+    {
+      "label": "Lieferung",
+      "values": {
+        "elite": "Folge den Liefer- und Einrichtungshinweisen zu deiner Bestellung.",
+        "hwid-spoofer": "Lieferhinweise zur Bestellung",
+        "skin-changer": "Lieferhinweise zur Bestellung",
+        "cloud-dma": "Geführte Hyper-V-Installation"
+      }
+    },
+    {
+      "label": "Windows",
+      "values": {
+        "elite": "Windows-PC prüfen",
+        "hwid-spoofer": "10 / 11, 64-Bit, Admin",
+        "skin-changer": "10 / 11, 64-Bit",
+        "cloud-dma": "10 / 11, 64-Bit"
+      }
+    },
+    {
+      "label": "Sicherheitseinstellungen",
+      "values": {
+        "elite": "Cloud DMA prüfen",
+        "hwid-spoofer": "HVCI, TPM, Secure Boot an",
+        "skin-changer": "HVCI, TPM, Secure Boot an",
+        "cloud-dma": "Hyper-V und CPU-Virtualisierung erforderlich"
+      }
+    }
+  ],
+  "ctaTitle": "Noch unschlüssig?",
+  "ctaDesc": "Sagen Sie dem Support das Ziel oder den Fehler. Sie nennen das Produkt vor der Zahlung.",
+  "ctaSupport": "Support fragen",
+  "menuHeading": "Produkte",
+  "menuViewAll": "Alle Produkte vergleichen",
+  "menuTaglines": {
+    "elite": "Einstellbarer Aimbot, Wallhack, Spieler- und Welt-ESP sowie Spike-Infos.",
+    "hwid-spoofer": "Disk-, MAC- und GPU-Kennungen",
+    "skin-changer": "Skins, Outfits und Messer auf dem Bildschirm",
+    "cloud-dma": "Geführte Hyper-V-Installation"
+  }
+}
